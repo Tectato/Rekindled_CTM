@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "CTM Addon for Fire Rekindled"
+  },
+  "meta": {
+    "game_version": "1.19"
+  }
+}
